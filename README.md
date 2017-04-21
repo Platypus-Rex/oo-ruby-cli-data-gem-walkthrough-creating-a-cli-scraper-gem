@@ -70,7 +70,7 @@ This video lessons walks through the process of building a CLI Gem with a focus 
  * make 'em then make 'em interact then make more!
  * power of objects come from their collaboration
  * dominoes!
- * Onside out development vs outside in
+ * Inside out development vs outside in
    * restaurant analogy - outside in
 * Models views controllers
 * Push to github!
@@ -80,3 +80,5 @@ This video lessons walks through the process of building a CLI Gem with a focus 
 
 [Application Source Code](https://github.com/aviflombaum/rubyweekly-cli)
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem'>OO Ruby CLI Data Gem Walkthrough: Creating a CLI Scraper Gem </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem'>CLI Data Gem Walkthrough: Creating a CLI Scraper Gem</a> on Learn.co and start learning to code for free.</p>
