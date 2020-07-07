@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 10752
+  :course_id: 353
+  :canvas_url: https://learning.flatironschool.com/courses/353/pages/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem
+  :type: page
